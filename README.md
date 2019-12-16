@@ -1,7 +1,7 @@
-# NeurIPS-Reproducibility-Challenge-
-Code and write up for the rerpducibility challenge for NeurIPS 2019. 
+# NeurIPS-Reproducibility-Challenge
+Code and write up for the reproducibility challenge for NeurIPS 2019. 
 
-1. Open the Data folder inside Mini4
+1. Unzip Data.zip and open the folder (keep in same directory)
 2. Put the 50000 validation set images from ImageNet 2012 in the train folder of Data
 3. Put the 10000 test set images from ImageNet 2012 in the validation folder of Data
 4. We did not include the data for you because of the size of the files (~75 GB), but it is online
