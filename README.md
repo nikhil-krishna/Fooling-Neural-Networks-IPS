@@ -1,5 +1,5 @@
 # NeurIPS-Reproducibility-Challenge
-Code and write up for the reproducibility challenge for NeurIPS 2019. Paper replicated: https://arxiv.org/pdf/1902.02041.pdf
+Code and write up for the reproducibility challenge for NeurIPS 2019. Paper replicated: https://arxiv.org/pdf/1902.02041.pdf. Our writeup: https://openreview.net/pdf?id=3-K_F_VAdO
 
 1. Unzip Data.zip and open the folder (keep in same directory)
 2. Put the 50000 validation set images from ImageNet 2012 in the train folder of Data
