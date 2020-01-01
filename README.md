@@ -4,7 +4,7 @@ Code and write up for the reproducibility challenge for NeurIPS 2019. Paper repl
 1. Unzip Data.zip and open the folder (keep in same directory)
 2. Put the 50000 validation set images from ImageNet 2012 in the train folder of Data
 3. Put the 10000 test set images from ImageNet 2012 in the validation folder of Data
-4. We did not include the data for you because of the size of the files (~75 GB), but it is online
+4. We did not include the actual data for you because of the size of the files (~75 GB), but it is available online
 
 5. Open passive_fooling.sh in run_lrp
 6. Read the comments and UNCOMMENT/COMMENT THE PARTS OF THE SCRIPT YOU WANT TO RUN
