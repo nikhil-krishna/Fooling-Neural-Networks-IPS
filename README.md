@@ -21,7 +21,7 @@ Code and write up for the reproducibility challenge for NeurIPS 2019. Paper repl
 
 Notes: 
 
-1. Ensure that when you use the results viewer that the cell with "ls" in it shows 6 directories created by passive_fooling.sh or passive_fooling_demo.sh. Any more or any less and there will be issues. This means that this viewer can only processes 6 foolings at a time. You may need to add old files into img_results when running the experiments to have 6 total directories. Simply ignore the output for the ones not needed.
+1. Ensure that when you use the results viewer that the cell with "ls" in it shows 6 directories created by passive_fooling.sh or passive_fooling_demo.sh. Any more or any less and there will be issues. This means that this viewer can only process 6 foolings at a time. You may need to add old files into img_results when running the experiments to have 6 total directories. Simply ignore the output for the ones not needed.
 
 2. Make sure you install the proper versions of the packages (numpy, torch, torchvision) we use older versions, as this code outdated. If you execute the cells properly in the notebooks, it will install these versions for you. Make sure you update the versions back when finished. 
 
