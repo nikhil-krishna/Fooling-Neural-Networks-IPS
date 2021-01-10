@@ -1,4 +1,5 @@
-# NeurIPS-Reproducibility-Challenge
+# Fooling-Neural-Networks-IPS
+
 Code and write up for the reproducibility challenge for NeurIPS 2019. 
 
 Paper replicated: https://arxiv.org/pdf/1902.02041.pdf
