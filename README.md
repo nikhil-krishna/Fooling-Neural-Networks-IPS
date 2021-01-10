@@ -30,7 +30,7 @@ Notes:
 
 2. Make sure you install the proper versions of the packages (numpy, torch, torchvision). We use older versions. If you execute the cells properly in the notebooks, it will install these versions for you. Make sure you update the versions back when finished. 
 
-3. Running everything will take a very, very long time unless you use GPU(s). 
+3. The use of GPU(s) is recommended.
 
 
 
